@@ -1,4 +1,4 @@
-## 변수 = edit_dist(input sequence 1,input sequence 2)
-## 변수.scoring_matrix()
+## A = edit_dist(input sequence 1,input sequence 2)
+## A.scoring_matrix()
 
-## Edited distant score 제공
+## Edited distant score Usage 
